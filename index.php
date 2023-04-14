@@ -61,7 +61,7 @@
               <p class="post-category">Ruang Update</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Miris, Pemuda Asal Jawa Tengah ini meninggal dunia setelah kaget karena jackpot</a>
+                <a href="blog-details.html">Miris, Pemuda pulee Asal Jawa Tengah ini meninggal dunia setelah kaget karena jackpot</a>
               </h2>
 
               <div class="d-flex align-items-center">
