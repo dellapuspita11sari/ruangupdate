@@ -88,7 +88,7 @@
               <p class="post-category">Ruang Update</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Gawat, Duit Habis ga kepake</a>
+                <a href="blog-details.html">Gawat, Duit Habis </a>
               </h2>
 
               <div class="d-flex align-items-center">
